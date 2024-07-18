@@ -1,0 +1,2 @@
+[access_analyzer]
+analyzer_arn = arn:aws:access-analyzer:ap-southeast-1:634109035606:analyzer/ExternalAccess-ConsoleAnalyzer-3a7736eb-56f1-44d8-a85b-a152302394c0
