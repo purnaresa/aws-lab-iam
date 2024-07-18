@@ -1,0 +1,3 @@
+id,resource,resourceType,status,findingType
+d5fd3118-f123-4118-b8a6-953e6b2a4347,arn:aws:iam::<redacted-account-id>:role/msk-client-role,AWS::IAM::Role,ACTIVE,UnusedIAMRole
+cf2e650d-53f3-45c0-bf82-aa8abd286c87,arn:aws:iam::<redacted-account-id>:role/rds-monitoring-role,AWS::IAM::Role,ACTIVE,UnusedPermission
