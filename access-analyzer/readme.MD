@@ -27,5 +27,5 @@ python list_findings.py
 ```
 
 The script will retrieve the findings from the specified IAM Access Analyzer analyzer and export them to a CSV file named 
-`findings.csv` in the same directory.
+`findings.csv` in the same directory. [Finding example CSV file.](findings.sample.csv)
 
